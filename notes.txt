@@ -1,0 +1,19 @@
+Hz: Paramter to figure out server capability
+
+Loadbalancer -> ServarA, ServerB
+
+Laoad balancer can be session aware, sticky session
+
+Flask uses signed cookie for sticky session
+
+Scalig DB: dB patitioning: vartical & horizontal
+
+DB Replication: Single primary replication, Multiple primary replication
+
+Chaching Data: Server site, client site
+
+Http header: cache-control: max_age = 8400, ETag -> resourse version header
+
+status 304: (not modified)
+
+Server site caching
